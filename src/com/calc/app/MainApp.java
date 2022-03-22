@@ -11,7 +11,7 @@ public class MainApp {
 
 	public static void main(String[] args) {
 
-		Aritmetica ari = new Aritmetica();
+		Operaciones ari = new Aritmetica();
 		
 		try {
 			Numero ne1 = new Entero(3);
