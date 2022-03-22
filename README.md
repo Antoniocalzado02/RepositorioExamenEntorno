@@ -2,7 +2,7 @@
 
 *Este proyecto engloba trabajos especialmene orientados al lenguaje de programación Java, el cual veremos que contiene en el siguiente punto:*
 
-<h3> Que contiene este proyecto.
+<h3> .Que contiene este proyecto.
   
   - Clases que identifican a los numero, ya sean Enteros, o Decimales
  
