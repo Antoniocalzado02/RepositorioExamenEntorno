@@ -33,6 +33,7 @@ public abstract class Numero {
 	public int getValorEntero() {
 		return valorEntero;
 	}
+	
 
 
 	public Base getBase() {
@@ -44,6 +45,9 @@ public abstract class Numero {
 	public int hashCode() {
 		return Objects.hash(base, valorEntero);
 	}
+	
+	//El metodo equals nos permite comprobarm,
+	//si son los parametros que le estamos pasando son iguales
 
 
 	@Override

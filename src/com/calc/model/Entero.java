@@ -15,6 +15,8 @@ public class Entero extends Numero {
 	public Entero(int value) {
 		super(value);
 	}
+	
+	//El override es que el metodo esta oculto, y ademas es de tipo protegido
 
 	@Override
 	protected void setValorEntero(int valorEntero) {
