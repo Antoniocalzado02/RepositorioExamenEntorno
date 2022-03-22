@@ -1,5 +1,4 @@
 # Proyecto calc
 
-## Proyecto para tratar algunos metodos como la suma, resta y realizar la media
-## Dentro de eclipse mediante el lenguaje Java.
+## Proyecto para tratar algunos metodos como la suma, resta y realizar la media \n Dentro de eclipse mediante el lenguaje Java.
 
