@@ -21,7 +21,10 @@
 
 
 [Java](https://www.java.com/es/)
+  
+ 
+*Esto es un proyecto el cual esta corregido y verificado para su funcionamiento cuando el cliente quiera utilizarlo*
 
 
-Copyright  by: Antoniocalzado'2
+Copyright  by: Antoniocalzado02
 
