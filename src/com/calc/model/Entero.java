@@ -11,7 +11,7 @@ public class Entero extends Numero {
 	public Entero(int value, Base base) {
 		super(value, base);
 	}
-	
+	//Podemos encontrar un constructor que recibe solo un valor y este llama a la clase super
 	public Entero(int value) {
 		super(value);
 	}
