@@ -7,7 +7,7 @@ public class Entero extends Numero {
 
 	
 	
-	
+	//Podemos encontrar un constructor de tipo entero el cual recibe un valor de tipo entero y una base de tipo Base
 	public Entero(int value, Base base) {
 		super(value, base);
 	}

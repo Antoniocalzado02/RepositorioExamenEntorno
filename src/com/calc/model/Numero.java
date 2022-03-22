@@ -3,6 +3,13 @@ package com.calc.model;
 import java.util.Objects;
 
 public abstract class Numero {
+	/*Como podemos ver nos encontramos en la clase numero
+	 * la cual tiene las variables de tipo potected
+	 * tiene un constructor Numero el cual recibe un valor de tipo entero
+	 * y una base de tipo Base
+	 * Podemos encontrarnos tambien los getters and setters respectivos
+	 * y metodo equals para comparar si son iguales
+	 * Esta clase es abstracta*/
 
 	protected int valorEntero;
 	protected Base base;

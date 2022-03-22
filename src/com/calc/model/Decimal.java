@@ -10,7 +10,7 @@ public class Decimal extends Numero{
 	private static final int VALOR_MAXIMO = 100001;
 	
 	
-	
+	//Es un constructor de decimal el cual recibe un valor de tipo entero y una base de tipo base
 	public Decimal(int value, Base base) {
 		super(value, base);
 		setValorDecimal(0);
@@ -54,7 +54,8 @@ public class Decimal extends Numero{
 		this.valorEntero=valorEntero;
 	}
 	
-	
+	//Aqui tenemos un set del valor decimal, 
+	//con el cual podemos actualizar su valor, recibe un valor decimal de tipo entero
 	private void setValorDecimal(int valorDecimal) {
 		
 		String aCadena = String.valueOf(valorDecimal);
@@ -95,7 +96,7 @@ public class Decimal extends Numero{
 		return super.equals(obj) && ((Decimal) obj).getValorDecimal()==this.valorDecimal;
 
 	}
-	
+	//Encontramos un toString el cual lo utilizamos para mostrar el decimal
 	public String toString() {
 		return super.toString()+" y valor decimal "+this.valorDecimal;
 	}
